@@ -1,0 +1,36 @@
+/* Resposive */ /* */
+/* Extra Small devices, Phones */
+@media only screen and (min-width : 480px) and (max-width : 767px ){
+  .jumbotron h1 {font-size: 32px}
+  .navbar-inverse .navbar-nav > li > a {padding-top: 15px;padding-bottom: 15px}
+  .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a.active, .navbar-inverse .navbar-nav > li > a:focus { border-bottom: none}
+  .jumbotron .lead {font-size: 18px;margin-bottom: 10px;line-height: 32px}
+  .home-blog {background-color: #f6f6f6;}
+  .stay-connected h1 {font-size: 53px;margin-bottom: 10px}
+  .stay-connected p {font-size: 22px}
+  .stay-connected .social-icons-home i{font-size: 60px;margin: 40px -5px 20px -5px}
+  .refere i {font-size: 120px}
+  .refere h2 {margin-top: 18px;font-size: 24px;}
+  .refere P{font-size: 13px;}
+}
+
+/* Small devices, Tablets */
+@media only screen and (min-width : 768px) and (max-width : 991px ){
+  .our-work .items-box .item {height: 266px}
+  .over h4 {margin: 40px 0 0 0}
+  .over p {line-height: 1.6;margin: 14px 0;font-size: 14px}
+  .over button { margin-top: 10px}
+  .stay-connected h1 {font-size: 58px;margin-bottom: 20px}
+  .stay-connected p {font-size: 24px}
+  .stay-connected .social-icons-home i{font-size: 70px;margin: 43px -5px 43px -5px}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
