@@ -113,6 +113,18 @@ p {    color: #666}
 .our-work .items-box {
   overflow: hidden;
 }
+.our-work .items-box .theme {
+    margin-bottom: 18px;
+    border-radius: 10px;
+}
+.our-work .items-box .theme img {
+    margin: 10px;
+}
+.our-work .items-box .theme .theme-info {
+    padding: 15px;
+    margin-top: 10px;
+    background-color: #fff;
+}
 .our-work .items-box .item {
   width: 31.8333%;
   height: 395px;
