@@ -114,16 +114,21 @@ p {    color: #666}
   overflow: hidden;
 }
 .our-work .items-box .theme {
-    margin-bottom: 18px;
+    margin: 18px;
+    
+    padding: 20px;
     border-radius: 10px;
+    background-color: #fff;
+}
+.our-work .items-box .theme p {
+    font-size: 16px;
 }
 .our-work .items-box .theme img {
     margin: 10px;
+    background-color: #018cb9;
 }
 .our-work .items-box .theme .theme-info {
     padding: 15px;
-    margin-top: 10px;
-    background-color: #fff;
 }
 .our-work .items-box .item {
   width: 31.8333%;
